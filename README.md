@@ -1,2 +1,119 @@
-⚡ TypeForge // Professional Typing Analytics & Speed TestTypeForge is a premium, high-fidelity typing diagnostics matrix engineered entirely within a single, self-contained client-side environment. This production-grade web application provides commercial-grade analytical telemetry tracking for developers, students, and professionals aiming to scale their linguistic throughput and tactical coding accuracy. Built with clean, framework-free vanilla mechanics, it operates flawlessly across completely offline sandboxed environments.📸 User Interface Preview🌙 Dark Mode Theme (Default Enriched)☀️ Light Mode Theme (High Contrast)🧠 Core Engineering Features🛠️ Deterministic Input Validation LoopAtomic Telemetry String Mapping: Evaluates inputs character-by-character at the hardware event abstraction layer, assessing typing streams against strict text matrices using index-shifted arrays.Non-Disruptive Structural Highlighting: Real-time mutation classes dynamically switch node characteristics: correct entries map to crisp Success Emerald, erroneous strikes trigger a Vibrant Crimson alert containing specialized background error blocks, and an active careted underline tracking vector mirrors physical text cursors.Anti-Cheat Infrastructure: Hardened layout layers intercept global operational system commands, completely neutralizing programmatic clipboards (Copy, Paste, Select All) and forcing user context containment by muting the default web right-click menu natively.📊 Comprehensive Performance Metrics PipelineNet/Gross Words Per Minute (WPM): Normalized throughput calculations evaluated over real-time active delta-time shifts using the industry standard expression: ((Total Characters Passed - Uncorrected Errors) / 5) / (Time Elapsed / 60).Characters Per Minute (CPM): Aggregated raw spatial keystroke rate assessing brute motor force velocity.High-Accuracy Indexing: Dynamic ratio calculations tracing localized key precision relative to total input strikes.Ancillary Diagnostic Tracking: Keeps persistent registers isolating dynamic retro-backspace calls alongside standalone cumulative structural error rates.🎨 Hyper-Premium Interface OrchestrationAdaptive Theme Engine: Implements deep visual states running seamlessly through CSS Variable tokens, automatically synchronizing and caching active layout attributes across sessions via window.localStorage.Sub-Millisecond Kinetic Fluidity: Smooth user interfaces designed with strict cubic-bezier acceleration transforms, flexible component layout structures, soft glass elevations, and dynamic linear tracking animations.Telemetry Virtual Layout Panel: An interactive interface layout tracking grid mapping visual active properties onto an on-screen keyboard component synced precisely to system events.⚙️ Architectural Implementation DetailsDeveloping complex applications entirely inside an isolated single file artifact requires highly structured front-end development architecture:1. Sound Synthesis Engine (Web Audio API Abstraction)To eliminate heavy asset payloads, network-dependent CDN bindings, or fragile Base64 storage strings, TypeForge synthesizes its acoustic tactile confirmation events directly from the hardware clock via the HTML5 Web Audio API:Successful Keypress Confirmation: Sharp, ultra-short envelope pure sine waves sounding at $580\text{ Hz}$ tailored with steep volume drop ramps for a mechanical tactile feel.Error Strikes: Dampened, low-frequency triangle waveforms sounding at $140\text{ Hz}$ providing acoustic feedback for user correction cycles.2. High-Efficiency Layout Reflow GuardingTo prevent structural layout recalculation bottlenecks when analyzing extensive body text blocks, strings undergo single-pass generation indexing to map immutable sub-nodes (.char-span). During user input loops, the application avoids structural DOM modifications. Instead, it utilizes minimal ClassList attribute updates to achieve a locked 60 FPS processing cycle even on highly constrained legacy systems.3. Isolated Application State PatternState parameters—including active multi-level text strings, dynamic stopwatch variables, delta calculations, user configurations, and historical caches—are systematically managed within a single, highly readable state object literal. This architecture prevents scope pollution and guarantees a predictable, single source of truth for all operational parameters.📋 System ConfigurationsConfiguration CategoryType SetupOperational Profiles AvailableSystem DifficultyString SegmentEasy (Short words) / Medium (Standard composition) / Hard (Code Snippets & Complex Syntax)Test Timer TargetInteger Switch30 Seconds / 60 Seconds / 120 SecondsAudio DiagnosticsBoolean ToggleEnabled (Oscillator Node Output) / MutedPersistence CacheLocal DB LogAutomated operational tracking dashboard run via window.localStorage💻 Local Installation & Quick DeploymentBecause the application requires zero external packages, dependencies, or server build chains, deployment is instantaneous:Clone the Repository Assets:Bashgit clone https://github.com/Mr-Nilarnab/typeforge-engine.git
-Access the Build Target:Locate the standalone production build file index.html within the root project workspace directory.Run Locally:Execute the target directly by double-clicking index.html inside your favorite browser environment. No internet connectivity, local server instances, or Node runtime allocations needed.📜 Repository Credits & Ownership🧑‍💻 Lead Core Engineer & Architectural UI/UX Designer:All algorithmic logic systems, deterministic string calculations, programmatic acoustic synthesis engines, and structural interface layouts are designed and owned exclusively by Mr-Nilarnab.
+⚡ TypeForge
+Professional Typing Analytics & Speed Test Engine
+
+A zero-dependency, offline-first, commercial-grade typing matrix system
+
+☀️ Light Mode
+<img width="1918" height="981" alt="Screenshot 2026-06-13 190223" src="https://github.com/user-attachments/assets/24550e9a-fca1-421d-a477-b4bebaaf355f" />
+🌙 Dark Mode
+<img width="1919" height="1004" alt="Screenshot 2026-06-13 190109" src="https://github.com/user-attachments/assets/af152aca-452f-43b3-9372-b2d1dd21d571" />
+  Result
+<img width="1919" height="984" alt="Screenshot 2026-06-13 190243" src="https://github.com/user-attachments/assets/153c8392-3f6e-496e-938e-ed2946f8ed94" />
+
+
+
+TypeForge is a standalone, production-level typing analytics engine engineered specifically for high-performance front-end portfolios. Built with pure HTML, CSS, and Vanilla JavaScript, it runs entirely offline while delivering precision-grade diagnostics, real-time feedback, and hardened anti-cheat controls.
+
+No frameworks. No APIs. No build tools. Just engineering.
+
+🚀 Core Capabilities
+🧠 Typing Engine (Low-Latency Core)
+Atomic Real-Time Detection
+Character-by-character evaluation using indexed string matrices and deterministic array loops.
+Visual Caret Intelligence
+Correct input → Green highlight
+Incorrect input → Red with soft warning feedback
+Active index → Animated caret underline
+Anti-Abuse & Cheat Shielding
+Clipboard injection fully blocked (Copy / Paste / Select-All)
+Context menu isolation
+Programmatic input bypass prevention
+📊 Advanced Typing Analytics
+True Net WPM
+Formula: (Total Characters ÷ 5) ÷ Time (minutes)
+Gross CPM
+Raw keystroke throughput measurement.
+Live Accuracy Rating
+Precision calculated dynamically against total input vs error count.
+Extended Diagnostics
+Error tracking
+Backspace behavior logging
+Retroactive correction detection
+🎨 Premium UI / UX Architecture
+Adaptive Theme Engine
+☀️ Light Mode & 🌙 Dark Mode
+Auto-persisted via localStorage
+Instant toggle with zero reload cost
+Fluid Motion System
+Sub-second easing curves
+Soft elevation cards
+Linear gradient accent layers
+Telemetry Virtual Keyboard
+Real-time key-press visualization mapped to user input.
+🛠️ Engineering Architecture (The Hard Work)
+1️⃣ Zero-Asset Audio System (Web Audio API)
+
+No external audio files. No base64 bloat.
+
+Sound feedback is generated dynamically using native Web Audio API oscillators:
+
+✅ Correct Keystroke
+High-frequency sine wave with short envelope
+❌ Incorrect Keystroke
+Low-frequency triangle wave with dampened decay
+
+This guarantees instant playback, zero asset loading, and full offline compatibility.
+
+2️⃣ High-Density DOM Delta Diffing
+Test text is pre-split into immutable .char-span nodes
+During input:
+Only targeted class tokens are mutated
+No container rewrites
+No layout thrashing
+
+Result: 60 FPS performance even on low-power devices
+
+3️⃣ Isolated State Engine
+
+All runtime variables are encapsulated inside a single structured JavaScript closure:
+
+Timers
+Metrics
+Error counters
+User preferences
+Configuration switches
+
+This creates a single source of truth and guarantees predictable UI updates.
+
+⚙️ Configuration Options
+Feature	Type	Available Options
+Difficulty Level	String Segment	Easy / Medium / Hard
+Time Limit	Integer	30s / 60s / 120s
+Audio Feedback	Boolean	On / Muted
+Persistence Cache	Local Storage	Automatic session analytics
+💻 Installation & Offline Deployment
+
+TypeForge is fully offline-ready. No setup required.
+
+Clone the Repository
+git clone https://github.com/Mr-Nilarnab/typeforge-engine.git
+Run Instantly
+Locate index.html
+Double-click the file
+Open in any modern browser
+(Chrome, Edge, Firefox, Safari)
+
+✅ No internet
+✅ No local server
+✅ No compilation
+
+📜 Credits
+
+Lead Core Engineer & UI/UX Architect
+Mr-Nilarnab
+
+All system architecture, typing logic, analytics formulas, Web Audio synthesis, DOM optimization strategies, and UI design were engineered independently.
+
+🔗 Repository
+
+TypeForge GitHub Repository
